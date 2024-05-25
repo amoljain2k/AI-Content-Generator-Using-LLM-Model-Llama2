@@ -1,3 +1,5 @@
+#Use the below command to install the required libraries
+#pip install -r requirements.txt
 sentence-transformers
 uvicorn
 ctransformers
