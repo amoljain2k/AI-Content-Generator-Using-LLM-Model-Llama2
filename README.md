@@ -1,4 +1,4 @@
-<h1>AI-Blog-Generation-Using-LLM</h1>
+<h1>AI-Blog-Generation-Using-LLM-Model-Llama2</h1>
 
 <h2>Importing Libraries</h2>
 The code starts by importing the necessary libraries:
