@@ -3,8 +3,8 @@
 <h2>Importing Libraries</h2>
 The code starts by importing the necessary libraries:
 
-- **streamlit (imported as st)**: a Python library for building web applications for machine learning and data science.
-- **langchain.prompts and langchain.llms**: libraries for working with large language models (LLMs) and generating text prompts.
+- **streamlit (imported as st)**: Python library for building web applications for machine learning and data science.
+- **langchain.prompts and langchain.llms**: Libraries for working with large language models (LLMs) and generating text prompts.
 
 <h2>Defining the 'getLLamaresponse' Function</h2>
 The getLLamaresponse function takes three inputs:
