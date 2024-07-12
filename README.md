@@ -35,3 +35,8 @@ Response Display: A section that displays the generated blog post when the "Gene
 
 <h2>Generating the Blog Post</h2>
 When the user clicks the "Generate" button, the getLLamaresponse function is called with the input values, and the generated blog post is displayed on the Streamlit application.
+
+- 🍽️ Screenshot displaying the menu section with images of food items, their names, and prices.
+
+![image](<img width="503" alt="Output" src="https://github.com/user-attachments/assets/4038fe4e-760c-4543-bb40-f0b9f03ffc60">)
+
