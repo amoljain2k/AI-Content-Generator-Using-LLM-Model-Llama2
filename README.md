@@ -36,6 +36,6 @@ Response Display: A section that displays the generated blog post when the "Gene
 <h2>Generating the Blog Post</h2>
 When the user clicks the "Generate" button, the getLLamaresponse function is called with the input values, and the generated blog post is displayed on the Streamlit application.
 
-<img width="503" alt="Output" src="https://github.com/user-attachments/assets/e7de6461-22d1-41ed-98ed-ca65bf12210f">
+![image](https://github.com/amoljain2k/AI-Content-Generator-Using-LLM-Model-Llama2/blob/main/Output.png)
 
 
